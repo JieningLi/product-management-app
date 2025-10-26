@@ -23,8 +23,8 @@ Before you begin, ensure you have the following installed:
 ## 📁 Project Structure
 
 ```
-product-manager/
-├── backend/                    # Spring Boot application
+product-manager-app/
+├── product-manager-backend/                    # Spring Boot application
 │   ├── src/
 │   │   └── main/
 │   │       ├── java/
@@ -39,7 +39,7 @@ product-manager/
 │   │       └── resources/
 │   │           └── application.properties
 │   └── pom.xml
-└── frontend/                   # React application
+└── product-manager-frontend/                   # React application
     ├── public/
     │   └── index.html
     ├── src/
